@@ -1,0 +1,26 @@
+.carousel-inner{
+    height: 200px;
+}
+
+h1{
+    align-items: center;
+    text-align: center;
+    color: crimson;
+}
+
+.Mar, .dc{
+    float:left;width: 46%;
+    margin: 2px 22px;
+}
+
+.Mar{
+    background-color: lightskyblue;
+}
+
+.dc{
+    background-color: lightcoral;
+}
+
+.dos{
+    clear:both
+}
